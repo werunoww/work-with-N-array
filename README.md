@@ -35,3 +35,12 @@ void menu()
 	std::cout << "4. Выход \n";
 }
 ```
+## Скриншоты работы программы:
+<div align="center">
+	<p> В качестве примера рассмотрим следующее дерево: </p>
+	<img width="50%" src="images/example.jpg"><br>
+	<p>Заполнение дерева: </p>
+	<img width="40%" src="images/inputNodes.png"><br>
+	<p>Вывод дерева и соотношения каждого поддерева: </p>
+	<img width="40%" src="images/output.png">
+</div>
